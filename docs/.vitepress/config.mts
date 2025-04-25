@@ -23,7 +23,14 @@ export default defineConfig({
             {text: 'Deposit Assets', link: '/get-started.html#_2-deposit-assets' },
             {text: 'Send Assets Privately', link: '/get-started.html#_3-send-assets-privately' }
             ]},
-          { text: 'How Curvy Works', link: '/how-curvy-works' },
+          { text: 'How Curvy Works', 
+            link: '/how-curvy-works'
+             items: [
+            {text: 'How Privacy Works in Curvy', link: '/how-curvy-works.html#_1-how-privacy-works-in-curvy' },
+            {text: 'Best Practices for Maximum Privacy', link: '/how-curvy-works.html#_2-best-practices-for-maximum-privacy' },
+            {text: 'How You Stay in Control', link: '/how-curvy-works.html#_3-how-you-stay-in-control' },
+            {text: 'Wallets & Networks', link '/how-curvy-works.html#_4-wallets-networks'}
+            ]},
           { text: 'Deep Dive: Technical Documentation', link: '/technical-documentation' },
           { text: 'Research & Protocol Versions', link: '/research-and-protocol-versions'}
         ]
