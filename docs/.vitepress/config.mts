@@ -23,7 +23,7 @@ export default defineConfig({
             {text: 'Deposit Assets', link: '/get-started.html#_2-deposit-assets' },
             {text: 'Send Assets Privately', link: '/get-started.html#_3-send-assets-privately' }
             ]},
-          { text: 'Markdown Examples', link: '/markdown-examples' },
+          { text: 'How Curvy Works', link: '/how-curvy-works' },
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]
       }
