@@ -23,7 +23,7 @@ export default defineConfig({
             {text: 'Send Assets Privately', link: '/get-started.html#_3-send-assets-privately' }
             ]},
           { text: 'How Curvy Works', 
-            link: '/how-curvy-works'
+            link: '/how-curvy-works',
             items: [
             {text: 'How Privacy Works in Curvy', link: '/how-curvy-works.html#_1-how-privacy-works-in-curvy' },
             {text: 'Best Practices for Maximum Privacy', link: '/how-curvy-works.html#_2-best-practices-for-maximum-privacy' },
@@ -31,7 +31,7 @@ export default defineConfig({
             {text: 'Wallets & Networks', link '/how-curvy-works.html#_4-wallets-networks' }
             ]},
           { text: 'Deep Dive: Technical Documentation', 
-            link: '/technical-documentation'
+            link: '/technical-documentation',
             items: [
             {text: 'Cryptographic Foundations', link: '/technical-documentation.html#cryptographic-foundations' },
             {text: 'Generating the Stealth Address', link: '/technical-documentation.html#generating-the-stealth-address' },
@@ -39,7 +39,7 @@ export default defineConfig({
             {text: 'How the Recipient Unlocks the Funds', link '/technical-documentation.html#how-the-recipient-unlocks-the-funds' }
             ]},
           { text: 'Research & Protocol Versions', 
-            link: '/research-and-protocol-versions'
+            link: '/research-and-protocol-versions',
             items: [
             {text: 'Research Papers', link: '/research-and-protocol-versions.html#research-papers' },
             {text: 'Curvy Protocol Versions', link: '/research-and-protocol-versions.html#curvy-protocol-versions' }
