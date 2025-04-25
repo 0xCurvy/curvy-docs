@@ -13,15 +13,15 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Docs',
+            collapsible: true,
+
         items: [
           { text: 'Get Started with Curvy', 
-            link: '/get-started' 
-            collapsible: true,
+            link: '/get-started', 
             items: [
-            {text: 'Create Your Curvy Wallet', link: '/get-started#_1-create-your-curvy-wallet' },
-            {text: 'Deposit Assets', link: '/get-started#_2-deposit-assets' },
-            {text: 'Send Assets Privately', link: '/get-started#_3-send-assets-privately' }
+            {text: 'Create Your Curvy Wallet', link: 'get-started.html#_1-create-your-curvy-wallet' },
+            {text: 'Deposit Assets', link: '/get-started.html#_2-deposit-assets' },
+            {text: 'Send Assets Privately', link: '/get-started.html#_3-send-assets-privately' }
             ]},
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' }
