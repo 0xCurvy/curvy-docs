@@ -13,13 +13,16 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Docs',
+        collapsible: true,
         items: [
+          { text: 'Get Started with Curvy', link: '/get-started' },
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]
       }
     ],
+
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/0xCurvy/' },
