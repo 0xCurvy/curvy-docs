@@ -8,21 +8,20 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Docs', link: '/get-started' }
     ],
 
     sidebar: [
       {
         text: 'Docs',
-        collapsible: true,
         items: [
           { text: 'Get Started with Curvy', 
             link: '/get-started' 
-            collapsed: true,
+            collapsible: true,
             items: [
-            {text: 'Create Your Curvy Wallet', link: '#_1-create-your-curvy-wallet' },
-            {text: 'Deposit Assets', link: '#_2-deposit-assets' },
-            {text: 'Send Assets Privately', link: '#_3-send-assets-privately' }
+            {text: 'Create Your Curvy Wallet', link: '/get-started#_1-create-your-curvy-wallet' },
+            {text: 'Deposit Assets', link: '/get-started#_2-deposit-assets' },
+            {text: 'Send Assets Privately', link: '/get-started#_3-send-assets-privately' }
             ]},
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' }
