@@ -22,7 +22,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/0xCurvy/curvy-sn' },
+      { icon: 'github', link: 'https://github.com/0xCurvy/' },
       { icon: 'x', link: 'https://x.com/0xcurvy' }
     ]
   }
