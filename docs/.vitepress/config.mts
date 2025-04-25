@@ -16,7 +16,14 @@ export default defineConfig({
         text: 'Docs',
         collapsible: true,
         items: [
-          { text: 'Get Started with Curvy', link: '/get-started' },
+          { text: 'Get Started with Curvy', 
+            link: '/get-started' 
+            collapsed: true,
+            items: [
+            {text: 'Create Your Curvy Wallet', link: '#_1-create-your-curvy-wallet' },
+            {text: 'Deposit Assets', link: '#_2-deposit-assets' },
+            {text: 'Send Assets Privately', link: '#_3-send-assets-privately' }
+            ]},
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]
