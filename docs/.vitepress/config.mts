@@ -24,7 +24,8 @@ export default defineConfig({
             {text: 'Send Assets Privately', link: '/get-started.html#_3-send-assets-privately' }
             ]},
           { text: 'How Curvy Works', link: '/how-curvy-works' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Deep Dive: Technical Documentation', link: '/technical-documentation' },
+          { text: 'Research & Protocol Versions', link: '/research-and-protocol-versions'}
         ]
       }
     ],
