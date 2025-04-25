@@ -19,7 +19,7 @@ export default defineConfig({
           { text: 'Get Started with Curvy', 
             link: '/get-started', 
             items: [
-            {text: 'Create Your Curvy Wallet', link: 'get-started.html#_1-create-your-curvy-wallet' },
+            {text: 'Create Your Curvy Wallet', link: '/get-started.html#_1-create-your-curvy-wallet' },
             {text: 'Deposit Assets', link: '/get-started.html#_2-deposit-assets' },
             {text: 'Send Assets Privately', link: '/get-started.html#_3-send-assets-privately' }
             ]},
