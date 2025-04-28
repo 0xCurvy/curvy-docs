@@ -1,4 +1,4 @@
-# How Privacy Works in Curvy**
+# How Privacy Works in Curvy
 
 Curvy gives you privacy by default. When you receive crypto, a stealth address is automatically generated. When you send, you choose which stealth address to send from. That makes it nearly impossible to track your activity on-chain, as long as you follow best practices.
 
