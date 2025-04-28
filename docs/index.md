@@ -5,7 +5,9 @@ layout: home
 hero:
   name: "Curvy Docs"
 
-  tagline: Documentation portal for Curvy Protocol
+  tagline: Curvy is a stealth address protocol enabling private, secure, and compliant on-chain transactions across Ethereum and Starknet      ecosystems.
+  It allows you to privately send and receive funds, and interact with dApps on-chain without exposing your activity.
+  
   actions:
     - theme: brand
       text: Docs 
