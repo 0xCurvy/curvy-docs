@@ -14,12 +14,12 @@ export default defineConfig({
     sidebar: [
           {    
             text: 'Get Started with Curvy', 
-            link: '/get-started', 
+            link: '/get-started-with-curvy', 
             collapsible: true,
             items: [
-              {text: 'Create Your Curvy Wallet', link: '/get-started.html#_1-create-your-curvy-wallet' },
-              {text: 'Deposit Assets', link: '/get-started.html#_2-deposit-assets' },
-              {text: 'Send Assets Privately', link: '/get-started.html#_3-send-assets-privately' },
+              {text: 'Create Your Curvy Wallet', link: '/create-your-curvy-wallet' },
+              {text: 'Deposit Assets', link: '/deposit-assets' },
+              {text: 'Send Assets Privately', link: '/send-asseets-privately' },
             ]
           },
           { text: 'How Curvy Works', 
