@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Curvy Documentation"
-  tagline: Curvy is a stealth address protocol enabling private, secure, and compliant on-chain transactions across Ethereum and Starknet      ecosystems. 
+  tagline: A stealth address protocol enabling private, secure, and compliant on-chain transactions across the Ethereum and Starknet ecosystems.
   actions:
     - theme: brand
       text: Docs 
