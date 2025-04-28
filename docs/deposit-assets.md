@@ -11,7 +11,7 @@ This ensures every incoming payment goes to a different address, keeping all you
 
 ### Option 2: Manually Generate a Stealth Address
 
-- Tap “Receive” in the Curvy app
+- Tap `Receive` in the Curvy app
 - You’ll see a new stealth address generated automatically
 - You can also refresh or tap the refresh icon to get a new one
 
