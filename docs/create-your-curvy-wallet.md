@@ -1,4 +1,4 @@
-## 1. Create Your Curvy Wallet
+# Create Your Curvy Wallet
 
 Curvy is a self-custody wallet. That means: you control your account. If you lose access, nobody, not even Curvy, can recover it. Please read carefully and follow all the steps to stay safe.
 
