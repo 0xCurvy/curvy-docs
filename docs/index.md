@@ -8,22 +8,27 @@ hero:
   tagline: Documentation portal for Curvy Protocol
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Docs 
+      link: /get-started-with-curvy.html
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Website 
+      link: https://www.0xcurvy.io/
     - theme: alt
-      text: Get Started with Curvy
-      link: /get-started
+      text: Web App
+      link: https://starknet.0xcurvy.io/
+  
 
 features:
   - title: Get Started with Curvy
-    link: /get-started-with-curvy.html
+    link: /get-started-with-curvy
 
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: How Curvy Works
+    link: /how-curvy-works
+    
+  - title: Technical Documentation
+    link: /technical-documentation.html
+
+  - title: Research & Protocol Versions
+    link: /research-and-protocol-versions  
 ---
 
