@@ -20,6 +20,7 @@ hero:
 
 features:
   - title: Get Started with Curvy
+    text: Learn how to create your wallet, set up your Curvy ID, and start sending and receiving assets privately.
     link: /get-started-with-curvy
 
   - title: How Curvy Works
