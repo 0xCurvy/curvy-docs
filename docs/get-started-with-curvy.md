@@ -7,3 +7,5 @@ This guide will help you:
 - Set up your wallet and Curvy ID
 - Start receiving assets privately
 - Send funds privately to anyone using stealth addresses
+
+[Create Your Curvy Wallet](./create-your-curvy-wallet)
