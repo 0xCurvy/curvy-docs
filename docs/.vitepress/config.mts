@@ -34,13 +34,6 @@ export default defineConfig({
           },
           { text: 'Deep Dive: Technical Documentation', 
             link: '/technical-documentation',
-            collapsible: true,
-            items: [
-              {text: 'Cryptographic Foundations', link: '/technical-documentation.html#cryptographic-foundations' },
-              {text: 'Generating the Stealth Address', link: '/technical-documentation.html#generating-the-stealth-address' },
-              {text: 'Fast Transaction Detection: View Tags', link: '/technical-documentation.html#fast-transaction-detection-view-tags' },
-              {text: 'How the Recipient Unlocks the Funds', link: '/technical-documentation.html#how-the-recipient-unlocks-the-funds' },
-            ]
           },
           { text: 'Research & Protocol Versions', 
             link: '/research-and-protocol-versions',
