@@ -19,7 +19,6 @@ hero:
 
 features:
   - title: Get Started with Curvy
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
     link: /get-started-with-curvy.html
 
   - title: Feature B
