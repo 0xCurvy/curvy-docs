@@ -14,5 +14,7 @@ Pick any step to begin or follow them in order for the full experience.
 
 ## Next Steps
 [1. Create Your Curvy Wallet](./create-your-curvy-wallet)
+
 [2. Deposit Assets](./deposit-assets)
+
 [3. Send Assets Privately](./send-assets-privately)
