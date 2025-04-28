@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Curvy Docs"
 
-  tagline: Documentation portal for curvy protocol
+  tagline: Documentation portal for Curvy Protocol
   actions:
     - theme: brand
       text: Markdown Examples
@@ -18,8 +18,10 @@ hero:
       link: /get-started
 
 features:
-  - title: Feature A
+  - title: Get Started with Curvy
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    link: /get-started-with-curvy.html
+
   - title: Feature B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature C
