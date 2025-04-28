@@ -26,10 +26,10 @@ export default defineConfig({
             link: '/how-curvy-works',
             collapsible: true,
             items: [
-              {text: 'How Privacy Works in Curvy', link: '/how-curvy-works.html#_1-how-privacy-works-in-curvy' },
-              {text: 'Best Practices for Maximum Privacy', link: '/how-curvy-works.html#_2-best-practices-for-maximum-privacy' },
-              {text: 'How You Stay in Control', link: '/how-curvy-works.html#_3-how-you-stay-in-control' },
-              {text: 'Wallets & Networks', link: '/how-curvy-works.html#_4-wallets-networks' },
+              {text: 'How Privacy Works in Curvy', link: '/how-privacy-works-in-curvy' },
+              {text: 'Best Practices for Maximum Privacy', link: 'best-practices-for-maximum-pivacy' },
+              {text: 'How You Stay in Control', link: '/how-you-stay-in-control' },
+              {text: 'Wallets & Networks', link: 'wallets-and-newtorks' },
             ]
           },
           { text: 'Deep Dive: Technical Documentation', 
