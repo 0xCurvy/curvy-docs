@@ -1,4 +1,4 @@
-## 2. Deposit Assets
+# Deposit Assets
 
 There are 2 ways to receive crypto into Curvy:
 
