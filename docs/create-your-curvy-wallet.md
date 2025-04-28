@@ -6,7 +6,7 @@ Curvy is a self-custody wallet. That means: you control your account. If you los
 
 To get started:
 
-- Tap 'Connect Wallet' on the Curvy web app.
+- Tap ’Connect Wallet’ on the Curvy web app.
 - Select the wallet you’d like to use to create your Curvy account (e.g. Argent, MetaMask Braavos).
   The wallet you connect becomes the key to your Curvy account. If you ever lose access to it, there’s no way to recover your funds. That’s why it’s important to pick a secure wallet from the start.
 
