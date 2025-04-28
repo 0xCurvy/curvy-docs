@@ -1,4 +1,4 @@
-## 3. Send Assets Privately
+# Send Assets Privately
 
 To send funds privately:
 
