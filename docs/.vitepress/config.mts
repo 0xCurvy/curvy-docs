@@ -19,7 +19,7 @@ export default defineConfig({
             items: [
               {text: 'Create Your Curvy Wallet', link: '/create-your-curvy-wallet' },
               {text: 'Deposit Assets', link: '/deposit-assets' },
-              {text: 'Send Assets Privately', link: '/send-asseets-privately' },
+              {text: 'Send Assets Privately', link: '/send-assets-privately' },
             ]
           },
           { text: 'How Curvy Works', 
