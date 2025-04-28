@@ -26,4 +26,6 @@ Anyone can send funds to your Curvy ID privately. Each time someone uses it, Cur
 
 After choosing your Curvy ID, you’ll set a password to protect your wallet on this device. Even if someone gets access to your browser or device, they won’t be able to use your wallet without this password.
 
+::: warning
 **Important:** Curvy never stores your password or wallet keys. If you lose your password, your funds can not be recovered and access is lost permanently.
+:::
