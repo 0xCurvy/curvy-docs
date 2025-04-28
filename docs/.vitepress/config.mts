@@ -46,8 +46,8 @@ export default defineConfig({
             link: '/research-and-protocol-versions',
             collapsible: true,
             items: [
-            {text: 'Research Papers', link: '/research-and-protocol-versions.html#research-papers' },
-            {text: 'Curvy Protocol Versions', link: '/research-and-protocol-versions.html#curvy-protocol-versions' }
+            {text: 'Research Papers', link: '/research-papers' },
+            {text: 'Curvy Protocol Versions', link: '/curvy-protocol-versions' }
             ]
           }
     ],
