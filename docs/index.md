@@ -21,16 +21,21 @@ hero:
 features:
   - title: Get Started with Curvy
     link: /get-started-with-curvy
-    details: Learn how to create your wallet, set up your Curvy ID, and start sending and receiving assets privately.
-    
+    details: Create your wallet, set up your Curvy ID and start sending and receiving funds privately.
 
   - title: How Curvy Works
     link: /how-curvy-works
+    details: Learn how Curvy protects your privacy using stealth addresses, view tags, and best practices.
     
   - title: Technical Documentation
     link: /technical-documentation.html
+    details: Dive deeper into Curvy’s cryptographic design, wallet architecture, and stealth transaction mechanics.
 
   - title: Research & Protocol Versions
-    link: /research-and-protocol-versions  
+    link: /research-and-protocol-versions 
+    details: Explore the academic research behind Curvy and see how the protocol is evolving.
+
+
+ 
 ---
 
