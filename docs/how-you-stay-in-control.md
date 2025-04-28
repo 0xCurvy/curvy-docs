@@ -1,4 +1,4 @@
-# How You Stay in Control**
+# How You Stay in Control
 
 Curvy is a self-custody wallet, which means only you can access your funds, not Curvy, not a third party. This gives you true ownership, but it also means you’re responsible for your security.
 
