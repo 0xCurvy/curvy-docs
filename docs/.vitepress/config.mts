@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Curvy's Docs",
+  title: "Curvy Docs",
   description: "Curvy documentation portal",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
