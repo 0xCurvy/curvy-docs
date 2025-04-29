@@ -29,7 +29,7 @@ export default defineConfig({
               {text: 'How Privacy Works in Curvy', link: '/how-privacy-works-in-curvy' },
               {text: 'Best Practices for Maximum Privacy', link: 'best-practices-for-maximum-pivacy' },
               {text: 'How You Stay in Control', link: '/how-you-stay-in-control' },
-              {text: 'Wallets & Networks', link: 'wallets-and-newtorks' },
+              {text: 'Wallets & Networks', link: 'wallets-and-networks' },
             ]
           },
           { text: 'Deep Dive: Technical Documentation', 
