@@ -2,7 +2,7 @@
 
 There are 3 ways to receive assets into Curvy:
 
-### Option 1: Share Your Curvy ID
+## Option 1: Share Your Curvy ID
 
 - Share your Curvy ID with the sender (e.g. `yourname.curvy.name` )
 - Anyone using a wallet that supports ENS off-chain resolvers can send funds to your Curvy ID privately.
@@ -10,7 +10,7 @@ When someone enters your Curvy ID in the recipient field, Curvy automatically ge
 
 This allows you to receive private, unlinkable transactions through a familiar and shareable format supported across a wide range of ENS-compatible wallets. Every incoming payment goes to a new stealth address, keeping your transfers unlinkable and your identity protected.
 
-### Option 2: Manually Generate a Stealth Address
+## Option 2: Manually Generate a Stealth Address
 
 - Tap `Receive` in the Curvy app
 
@@ -26,7 +26,7 @@ This allows you to receive private, unlinkable transactions through a familiar a
 
 This method is useful when the sender’s wallet doesn’t support ENS off-chain resolver or when you want to share a specific stealth address directly.
 
-### Option 3: Use Your Public Curvy Page
+## Option 3: Use Your Public Curvy Page
 Your Curvy ID also acts as a personalised public page that you can share with others.
 This page gives senders multiple options to transfer funds to your Curvy account. Whether via MetaMask, Argent, WalletConnect-compatible wallets, QR code, or by directly copying a freshly generated stealth address.
 
