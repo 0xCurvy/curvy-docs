@@ -14,6 +14,6 @@ Tips for using Curvy in the most private way.
 
 How you control your keys, wallet, and funds.
 
-### [Wallets & Networks →](/wallets-and-newtorks)
+### [Wallets & Networks →](/wallets-and-networks)
 
 Wallets and blockchains Curvy supports.
