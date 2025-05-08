@@ -9,7 +9,9 @@ Here are the best practices to help you stay fully private when using Curvy:
 - Each time someone sends you funds, use a fresh stealth address.  
 - If you reuse a stealth address, someone could connect multiple transactions back to you which breaks your privacy.
 
-Curvy automatically generates a new stealth address each time someone uses your Curvy ID, so you don’t have to worry about this if you share your ID instead of copying/pasting addresses.
+::: info
+If you share your Curvy ID (instead of copying and sending stealth addresses manually), Curvy will automatically generate a new stealth address each time it's used so you don’t have to worry about address reuse compromising your privacy.
+:::
 
 ### Don’t Reuse Recipient Addresses When Sending
 
