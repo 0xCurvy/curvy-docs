@@ -17,7 +17,7 @@ export default defineConfig({
       gtag("js", new Date());
       gtag("config", "G-1M3S5K0GPZ");`
     ]
-  ]
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
