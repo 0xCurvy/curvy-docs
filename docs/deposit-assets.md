@@ -1,6 +1,6 @@
 # Deposit Assets
 
-There are 2 ways to receive crypto into Curvy:
+There are 3 ways to receive crypto into Curvy:
 
 ### Option 1: Share Your Curvy ID
 
