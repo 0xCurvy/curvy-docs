@@ -16,14 +16,29 @@ This allows you to receive private, unlinkable transactions through a familiar a
 
 ![Receive1](./public/images/receive1.png)
   
-- You’ll see a new stealth address generated automatically
+- A new stealth address will be generated automatically
 
-![Receive1](./public/images/receive1.png)
+![Receive2](./public/images/receive2.png)
   
-- You can also refresh or tap the refresh icon to get a new one
+- Tap the refresh icon if you want to generate another one
 
-![Receive1](./public/images/receive1.png)
+![Receive3](./public/images/receive3.png)
 
-**Note:**  
-- Curvy supports Ethereum and Starknet. Make sure to select the correct network before sharing your newly generated stealth address, Ethereum and Starknet addresses are different.  
-- Unlike other wallets, Curvy addresses are designed for one-time use. That’s what makes them stealth addresses. Reusing an address reduces your privacy.
+This method is useful when the sender’s wallet doesn’t support ENS off-chain resolver or when you want to share a specific stealth address directly.
+
+### Option 3: Use Your Public Curvy Page
+Your Curvy ID also acts as a personalised public page that you can share with others.
+This page gives senders multiple options to transfer funds to your Curvy account. Whether via MetaMask, Argent, WalletConnect-compatible wallets, QR code, or by directly copying a freshly generated stealth address.
+
+
+**NOTE:**  
+- **Curvy supports a wide range of blockchains.**
+Check the latest list [here](./wallets-and-networks.html#supported-networks).
+Make sure to select the correct network before sharing your stealth address. Addresses on different networks may differ in format. 
+Sending funds to the wrong address may result in permanently losing them.
+
+- **Curvy addresses are one-time use.
+Unlike traditional wallets, Curvy stealth addresses are designed for single use.
+Reusing them reduces your privacy and can compromise the unlinkability of your transactions.
+Read more [here](./best-practices-for-maximum-pivacy.html) about best practices for staying fully private when using Curvy.
+
