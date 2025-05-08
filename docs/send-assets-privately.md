@@ -22,5 +22,7 @@ To send funds privately:
 
 ![Send5](./public/images/send5.png)
 
+::: INFO
 Currently, Curvy supports 1:1 private transfers only, which is why you choose the stealth address to send from.  
 However, we are working on enabling private batch transactions, where Curvy will automatically combine assets from multiple stealth addresses and handle everything under the hood, while still preserving full privacy.
+:::
