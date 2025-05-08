@@ -15,6 +15,9 @@ hero:
     - theme: alt
       text: Web App
       link: https://app.curvy.box
+    - theme: alt
+      text: Community Hub
+      link: https://community.curvy.box/
   
 
 features:
