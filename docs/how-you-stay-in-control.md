@@ -68,7 +68,7 @@ When making a transfer:
 Curvy gives you the privacy tools, but doesn’t force specific flows.  
 We provide [best-practice guidelines](./best-practices-for-maximum-pivacy.html) to help you maximize your privacy, but at the end of the day, you’re in charge, and you decide how you use your wallet.
 
-### Takeaways
+## Takeaways
 
 - **You own your wallet:** Curvy never holds your funds or your private keys  
 - **You’re responsible for your recovery:** so back up your private keys securely  
