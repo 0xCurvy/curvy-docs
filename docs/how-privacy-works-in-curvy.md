@@ -14,7 +14,9 @@ On public blockchains, transactions are public and permanently visible. That mea
 
 Curvy solves this by using stealth addresses, one-time-use addresses that are unique for each transaction. This makes your activity private and difficult to trace.
 
-It’s like giving out a new phone number every time someone wants to message you. Each message is private, and no one can link them all together.
+It’s like creating a new wallet for every transaction. The transactions are publicly visible, but it’s nearly impossible to know that all those wallets belong to you. However, managing multiple wallets manually would normally be difficult, time-consuming, and prone to mistakes.
+
+Curvy simplifies all of that by generating a fresh stealth address behind the scenes for every transaction, keeping your activity unlinkable, without you ever needing to manage separate wallets yourself.
 
 ### What’s Happening Behind the Scenes
 
