@@ -31,14 +31,14 @@ Your Curvy ID also acts as a personalised public page that you can share with ot
 This page gives senders multiple options to transfer funds to your Curvy account. Whether via MetaMask, Argent, WalletConnect-compatible wallets, QR code, or by directly copying a freshly generated stealth address.
 
 
-**NOTE:**  
+::: info
 - **Curvy supports a wide range of blockchains.**
 Check the latest list [here](./wallets-and-networks.html#supported-networks).
 Make sure to select the correct network before sharing your stealth address. Addresses on different networks may differ in format. 
 Sending funds to the wrong address may result in permanently losing them.
 
-- **Curvy addresses are one-time use.
+- **Curvy addresses are one-time use.**
 Unlike traditional wallets, Curvy stealth addresses are designed for single use.
 Reusing them reduces your privacy and can compromise the unlinkability of your transactions.
 Read more [here](./best-practices-for-maximum-pivacy.html) about best practices for staying fully private when using Curvy.
-
+:::
