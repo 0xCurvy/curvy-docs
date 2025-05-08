@@ -19,8 +19,7 @@ Even if Curvy goes offline, your wallet still works. You can export your keys an
 After wallet creation, you’ll set a password to protect your Curvy account on your current device.
 
 - This password encrypts your wallet locally  
-- Without it, even someone with access to your browser can’t use your wallet  
-- If someone tries to load Curvy on the same device, they’ll need the password to unlock it
+- Without it, even someone with access to your browser and device can’t use your wallet  
 
 **Important:** Curvy does not store or back up your password.  
 If you lose it and don’t have your recovery phrase, your wallet and funds are unrecoverable.
