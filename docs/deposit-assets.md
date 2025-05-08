@@ -12,8 +12,16 @@ This ensures every incoming payment goes to a different address, keeping all you
 ### Option 2: Manually Generate a Stealth Address
 
 - Tap `Receive` in the Curvy app
+
+![Receive1](./public/images/receive1.png)
+  
 - You’ll see a new stealth address generated automatically
+
+![Receive1](./public/images/receive1.png)
+  
 - You can also refresh or tap the refresh icon to get a new one
+
+![Receive1](./public/images/receive1.png)
 
 **Note:**  
 - Curvy supports Ethereum and Starknet. Make sure to select the correct network before sharing your newly generated stealth address, Ethereum and Starknet addresses are different.  
