@@ -2,7 +2,7 @@
 
 To send funds privately:
 
-- Tap “Send”
+- Tap `Send`
 
 ![Send1](./public/images/send1.png)
 
@@ -18,7 +18,7 @@ To send funds privately:
  
 ![Send4](./public/images/send4.png)
 
-- Click “Confirm & Send”
+- Click `Confirm & Send`
 
 ![Send5](./public/images/send5.png)
 
