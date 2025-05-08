@@ -7,6 +7,7 @@ There are 2 ways to receive crypto into Curvy:
 - Share your Curvy ID with the sender (e.g. `yourname.curvy.name` )
 - Anyone using a wallet that supports ENS off-chain resolvers can send funds to your Curvy ID privately.
 When someone enters your Curvy ID in the recipient field, Curvy automatically generates a new stealth address in the background.
+
 This allows you to receive private, unlinkable transactions through a familiar and shareable format supported across a wide range of ENS-compatible wallets. Every incoming payment goes to a new stealth address, keeping your transfers unlinkable and your identity protected.
 
 ### Option 2: Manually Generate a Stealth Address
