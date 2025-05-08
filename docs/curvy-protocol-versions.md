@@ -1,6 +1,6 @@
 # Curvy Protocol Versions
 
-We are progressively evolving the Curvy protocol to support more complex, scalable, and compliant privacy features. Below is a high-level breakdown:
+We are gradually upgrading the Curvy protocol to support more complex, scalable, and compliant privacy features. Below is a high-level breakdown:
 
 ### Curvy v1 – Stealth Transfers (Live)
 
