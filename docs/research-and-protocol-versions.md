@@ -1,6 +1,6 @@
 # Research & Protocol Versions
 
-Curvy is based on real cryptographic research. The ideas behind the protocol come from academic papers that help us create a system that’s not only private, but also reliable, secure, and adaptable to evolving security requirements.
+Curvy is based on real cryptographic research. The ideas behind the protocol come from academic papers that help us create a system that’s not only private, but also reliable, and adaptable to evolving security requirements.
 
 These papers were created by the Curvy team in collaboration with our colleagues at [3327](https://3327.io/).
 
