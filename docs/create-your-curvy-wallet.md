@@ -11,7 +11,7 @@ To get started:
   
 ![Connect Wallet](./public/images/connect_wallet.png)
 
-- Select the wallet you’d like to use to create your Curvy account (e.g. Argent, MetaMask Braavos).
+- Select the wallet you’d like to use to create your Curvy account (e.g. Argent, MetaMask, Braavos).
   The wallet you connect becomes the key to your Curvy account. If you ever lose access to it, there’s no way to recover your funds. That’s why it’s important to pick a secure wallet from the start.
 
 ### Step 2: Sign the Setup Message
