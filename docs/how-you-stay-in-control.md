@@ -4,7 +4,7 @@ Curvy is a self-custody wallet, which means only you can access your funds, not 
 
 Here’s how Curvy keeps you in control, and how you can keep your assets safe.
 
-### You Own the Keys - Always
+## You Own the Keys - Always
 
 When you create your Curvy wallet:
 
@@ -12,17 +12,21 @@ When you create your Curvy wallet:
 - They are never stored, uploaded, or sent to Curvy servers  
 - You stay in full control, at all times
 
+::: info
 Even if Curvy goes offline, your wallet still works. You can export your keys and restore access anytime, as long as you’ve backed them up securely.  
+:::
 
-### Your Password Protects Local Access
+## Your Password Protects Local Access
 
 After wallet creation, you’ll set a password to protect your Curvy account on your current device.
 
 - This password encrypts your wallet locally  
 - Without it, even someone with access to your browser and device can’t use your wallet  
 
-**Important:** Curvy does not store or back up your password.  
+::: warning 
+Curvy does not store or back up your password.  
 If you lose it and don’t have your recovery phrase, your wallet and funds are unrecoverable.
+:::
 
 ### We Never Store Your Private Keys
 
