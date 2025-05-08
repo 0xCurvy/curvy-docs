@@ -27,7 +27,7 @@ Why? If an external wallet (e.g. 0xabc...) receives funds from 3 different steal
 Let’s say you’ve received funds across 3 stealth addresses and want to move them to a single wallet:
 
 - If you send all the funds to one wallet in a single transaction, you’ve created a visible link between them.  
-- Instead, consider spending them separately or wait until Curvy supports private batching (see below).
+- Instead, consider spending them separately or wait until Curvy supports private batching (comming soon).
 
 ### **Real-World Privacy Isn’t Always Simple**
 
