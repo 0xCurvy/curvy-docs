@@ -21,7 +21,7 @@ This isn’t a transaction, it’s a local action that lets your wallet generate
 
 ### Step 3: Set Up Your Curvy ID
 
-Once your wallet is connected and keys are generated, you’ll set up your Curvy ID, a private, ENS-compatible username like `yourname.curvy.name`
+Once your wallet is connected and keys are generated, you’ll set up your Curvy ID, a personalised, ENS-compatible username like `yourname.curvy.name`
 
 ![Set Up Your Curvy ID](./public/images/curvy_id.png)
 
