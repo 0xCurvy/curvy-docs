@@ -35,5 +35,5 @@ This ensures that even if someone gets access to your browser or device, they wo
 ![Create a Password](./public/images/create_password.png)
 
 ::: warning
-Curvy never stores your password or wallet keys. If you lose your password, your funds can not be recovered and access is lost permanently.
+Curvy never stores your password or private keys. If you lose your password, your funds can not be recovered and access is lost permanently.
 :::
