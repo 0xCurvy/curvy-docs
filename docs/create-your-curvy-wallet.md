@@ -9,6 +9,7 @@ To get started:
 - Tap `Connect Wallet` on the Curvy web app.
   
 ![Connect Wallet](./public/images/connect_wallet.png)
+
 - Select the wallet you’d like to use to create your Curvy account (e.g. Argent, MetaMask Braavos).
   The wallet you connect becomes the key to your Curvy account. If you ever lose access to it, there’s no way to recover your funds. That’s why it’s important to pick a secure wallet from the start.
 
@@ -22,11 +23,15 @@ This isn’t a transaction, it’s a local action that lets your wallet generate
 
 Once your wallet is connected and keys are generated, you’ll set up your Curvy ID, a private ENS-style identifier like `yourname.curvy.box`
 
+![Set Up Your Curvy ID](./public/images/set_up_curvyid.png)
+
 Anyone can send funds to your Curvy ID privately. Each time someone uses it, Curvy generates a brand-new stealth address, making sure there’s no link between one transaction and the next.
 
 ### Step 4: Create a Password
 
 After choosing your Curvy ID, you’ll set a password to protect your wallet on this device. Even if someone gets access to your browser or device, they won’t be able to use your wallet without this password.
+
+![Create a Password](./public/images/create_password.png)
 
 ::: warning
 Curvy never stores your password or wallet keys. If you lose your password, your funds can not be recovered and access is lost permanently.
