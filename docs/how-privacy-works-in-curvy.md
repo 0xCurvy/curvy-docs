@@ -4,7 +4,7 @@ Curvy gives you privacy by default. When you receive crypto, a stealth address i
 
 Here’s how it works, step by step. 
 
-### Why Stealth Addresses?
+## Why Stealth Addresses?
 
 On public blockchains, transactions are public and permanently visible. That means anyone can:
 
@@ -18,7 +18,7 @@ It’s like creating a new wallet for every transaction. The transactions are pu
 
 Curvy simplifies all of that by generating a fresh stealth address behind the scenes for every transaction, keeping your activity unlinkable, without you ever needing to manage separate wallets yourself.
 
-### What’s Happening Behind the Scenes
+## What’s Happening Behind the Scenes
 
 When you create your Curvy wallet, it generates 2 key pairs for you:
 
@@ -29,7 +29,7 @@ When you create your Curvy wallet, it generates 2 key pairs for you:
 
 Your public keys are shared so others can send you funds. Your private keys stay with you - always.
 
-**How You Receive Funds Privately**
+### How You Receive Funds Privately
 
 With Curvy, you can receive crypto in 2 ways:
 
@@ -42,11 +42,11 @@ In both cases:
 - Only you and the sender know this address exists  
 - Only you, the recipient, can detect and spend the funds
 
-**Fast Transaction Detection**
+### Fast Transaction Detection
 
 Curvy uses a lightweight view tag to scan for incoming transactions. This means your wallet doesn’t need to scan the entire blockchain, it only checks for relevant matches, making detection fast and efficient. This also makes private transfers fast and scalable.
 
-**What’s Happening Under the Hood**
+### What’s Happening Under the Hood
 
 Here’s how this actually works behind the scenes:
 
@@ -59,7 +59,7 @@ Even though the stealth address is visible on-chain, only you can recognize and 
 
 If you’re curious about the technical deep dive, check out the full protocol breakdown
 
-### What Makes This Special?
+## What Makes This Special?
 
 Curvy makes privacy simple, efficient, and user-controlled:
 
