@@ -16,6 +16,10 @@ export default defineConfig({
       function gtag(){dataLayer.push(arguments);}
       gtag("js", new Date());
       gtag("config", "G-1M3S5K0GPZ");`
+    ], 
+    [
+      'link',
+      { rel: 'icon', href: '/favicon.png' }
     ]
   ],
   themeConfig: {
