@@ -21,11 +21,13 @@ This isn’t a transaction, it’s a local action that lets your wallet generate
 
 ### Step 3: Set Up Your Curvy ID
 
-Once your wallet is connected and keys are generated, you’ll set up your Curvy ID, a private ENS-style identifier like `yourname.curvy.box`
+Once your wallet is connected and keys are generated, you’ll set up your Curvy ID, a private, ENS-compatible username like `yourname.curvy.name`
 
-![Set Up Your Curvy ID](./public/images/set_up_curvyid.png)
+![Set Up Your Curvy ID](./public/images/curvy_id.png)
 
-Anyone can send funds to your Curvy ID privately. Each time someone uses it, Curvy generates a brand-new stealth address, making sure there’s no link between one transaction and the next.
+Anyone can send funds to your Curvy ID privately. It works with wallets that support ENS off-chain resolvers.
+When someone enters your Curvy ID in the recipient field of a compatible wallet, Curvy automatically generates a new stealth address in the background.
+This enables you to receive private, unlinkable transactions through a familiar and shareable format — supported across a wide range of ENS-compatible wallets.
 
 ### Step 4: Create a Password
 
