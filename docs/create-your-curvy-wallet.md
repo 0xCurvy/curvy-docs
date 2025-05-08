@@ -17,7 +17,6 @@ To get started:
 ### Step 2: Sign the Setup Message
 
 Once you connect your wallet, Curvy will ask you to sign a message.
-
 This isn’t a transaction, it’s a local action that lets your wallet generate the private keys needed to manage your Curvy account and stealth addresses. This happens entirely in your browser. Your keys stay on your device and are never uploaded, shared, or stored anywhere else.
 
 ### Step 3: Set Up Your Curvy ID
