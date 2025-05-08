@@ -2,15 +2,8 @@
 
 Welcome to Curvy, your privacy-first wallet.
 
-This guide will help you:
-
-- Set up your wallet and Curvy ID
-- Start receiving assets privately
-- Send funds privately using stealth addresses
-
-Before you dive in, here’s a quick overview of how to get started.
-The following steps will guide you through setting up your Curvy wallet, adding assets, and sending crypto privately using stealth addresses.
-Pick any step to begin or follow them in order for the full experience.
+This quick-start guide walks you through setting up your wallet and Curvy ID, receiving assets privately, and sending crypto using stealth addresses.
+Start with any step, or follow them in order for the full experience.
 
 ## Next Steps
 [1. Create Your Curvy Wallet](./create-your-curvy-wallet)
