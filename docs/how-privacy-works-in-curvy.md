@@ -31,11 +31,11 @@ Your public keys are shared so others can send you funds. Your private keys stay
 
 ### How You Receive Funds Privately
 
-With Curvy, you can receive crypto in 2 ways:
+There are 2 main ways to receive crypto with Curvy:
 
-1. Manually generate a stealth address in the Curvy app and send it to someone  
-2. Share your Curvy ID, and Curvy will automatically compute a stealth address for the sender to use
-
+1. Share your Curvy ID, and Curvy will automatically compute a stealth address for the sender to use
+2. Manually generate a stealth address in the Curvy app and share it with the sender
+ 
 In both cases:
 
 - The stealth address is unique to that transaction  
