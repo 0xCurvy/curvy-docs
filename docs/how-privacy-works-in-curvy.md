@@ -55,9 +55,9 @@ Here’s how this actually works behind the scenes:
 - You use your private view key to detect the transaction by matching the view tag  
 - You use your private spend key to unlock and access the funds
 
-Even though the stealth address is visible on-chain, only you can recognize and spend from it. Observers can’t connect it to your Curvy ID or wallet, unless you reuse addresses or leak patterns through your behavior.
+Even though the stealth address is visible on-chain, only you can recognize and spend from it. Observers can’t connect it to your Curvy ID or wallet, unless you reuse addresses or [leak patterns](./best-practices-for-maximum-pivacy.html#best-practices-for-maximum-privacy) through your behavior.
 
-If you’re curious about the technical deep dive, check out the full protocol breakdown
+If you’re curious about the technical deep dive, check out the [full protocol breakdown](./technical-documentation.html).
 
 ## What Makes This Special?
 
