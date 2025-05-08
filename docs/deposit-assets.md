@@ -31,6 +31,7 @@ Your Curvy ID also acts as a personalised public page that you can share with ot
 This page gives senders multiple options to transfer funds to your Curvy account. Whether via MetaMask, Argent, WalletConnect-compatible wallets, QR code, or by directly copying a freshly generated stealth address.
 
 
+
 ::: info
 - **Curvy supports a wide range of blockchains.**
 Check the latest list [here](./wallets-and-networks.html#supported-networks).
