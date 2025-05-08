@@ -76,4 +76,5 @@ Curvy makes privacy simple, efficient, and user-controlled:
   Curvy supports a wide range of blockchains. Check the full list [here](./wallets-and-networks.html#supported-networks).
 
 - **Optional Transparency & Compliance**  
-  You can share your view key with an auditor to prove incoming transactions, without giving them spending access.
+  Sharing your view key allows auditors to inspect your transaction history without granting them control over your wallet and funds.
+
