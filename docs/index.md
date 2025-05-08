@@ -4,17 +4,17 @@ layout: home
 
 hero:
   name: "Curvy Documentation"
-  tagline: A stealth address protocol enabling private, secure, and compliant on-chain transactions across the Ethereum and Starknet ecosystems.
+  tagline: A stealth address protocol enabling private, secure, and compliant on-chain transactions.
   actions:
     - theme: brand
       text: Docs 
       link: /get-started-with-curvy.html
     - theme: alt
       text: Website 
-      link: https://www.0xcurvy.io/
+      link: https://www.curvy.box
     - theme: alt
       text: Web App
-      link: https://starknet.0xcurvy.io/
+      link: https://app.curvy.box
   
 
 features:
