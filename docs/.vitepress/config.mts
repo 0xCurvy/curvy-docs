@@ -1,6 +1,9 @@
 import { defineConfig } from 'vitepress'
 
-export default {
+// https://vitepress.dev/reference/site-config
+export default defineConfig({
+  title: "Curvy Docs",
+  description: "Curvy documentation portal",
   head: [
     [
       'script',
@@ -15,12 +18,6 @@ export default {
       gtag("config", "G-1M3S5K0GPZ");`
     ]
   ]
-}
-
-// https://vitepress.dev/reference/site-config
-export default defineConfig({
-  title: "Curvy Docs",
-  description: "Curvy documentation portal",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
