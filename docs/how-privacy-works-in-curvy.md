@@ -73,7 +73,7 @@ Curvy makes privacy simple, efficient, and user-controlled:
   No full-chain scanning required. Curvy uses lightweight view tags so your wallet can detect incoming transactions quickly and efficiently.
 
 - **Multichain by Default**  
-  Works on Ethereum and Starknet, and other EVM-compatible chains are coming soon.
+  Curvy supports a wide range of blockchains. Check the full list [here](./wallets-and-networks.html#supported-networks).
 
-- **Optional Transparency**  
+- **Optional Transparency & Compliance**  
   You can share your view key with an auditor to prove incoming transactions, without giving them spending access.
