@@ -20,6 +20,8 @@ It’s like giving out a new phone number every time someone wants to message yo
 
 When you create your Curvy wallet, it generates 2 key pairs for you:
 
+![Public Key Pair](./public/images/public_key_pair.png)
+
 - A spend key that allows you to move and manage your funds
 - A view key that allows your wallet to detect transactions meant for you
 
