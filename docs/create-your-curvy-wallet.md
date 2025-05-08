@@ -29,7 +29,8 @@ Anyone can send funds to your Curvy ID privately. Each time it’s used, Curvy g
 
 ### Step 4: Create a Password
 
-After choosing your Curvy ID, you’ll set a password to protect your wallet on this device. Even if someone gets access to your browser or device, they won’t be able to use your wallet without this password.
+After choosing your Curvy ID, you’ll set a password to protect your wallet on this device. 
+This ensures that even if someone gets access to your browser or device, they won’t be able to use your wallet without the password.
 
 ![Create a Password](./public/images/create_password.png)
 
