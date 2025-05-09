@@ -30,7 +30,7 @@ This method is useful when the sender’s wallet doesn’t support ENS off-chain
 Your Curvy ID also acts as a personalised public page that you can share with others.
 This page gives senders multiple options to transfer funds to your Curvy account. Whether via MetaMask, Argent, WalletConnect-compatible wallets, QR code, or by directly copying a freshly generated stealth address.
 
-
+![Private Page](./public/images/private_page.png)
 
 ::: info
 - **Curvy supports a wide range of blockchains.**
