@@ -41,7 +41,7 @@ You should:
 
 ::: warning
 If someone gains access to your private keys, they can take control of your funds.
-If you lose them, and no longer have access to the wallet you used to create your Curvy account or your password, you’ll lose access to your wallet permanently.
+If you lose them, and no longer have access to the wallet you used to create your Curvy account or your password, you’ll lose access to your Curvy account permanently.
 :::
 
 ## No Centralised Recovery, Ever
