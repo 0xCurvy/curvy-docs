@@ -24,8 +24,8 @@ After wallet creation, you’ll set a password to protect your Curvy account on 
 - Without it, even someone with access to your browser and device can’t use your wallet  
 
 ::: warning 
-Curvy does not store or back up your password.  
-If you lose it and don’t have your recovery phrase, your wallet and funds are unrecoverable.
+Curvy does not store or back up your password.
+If you lose it and don’t have your private keys backed up, your wallet and funds will be unrecoverable.
 :::
 
 ## We Never Store Your Private Keys
@@ -40,8 +40,8 @@ You should:
 - Never enter them into unknown websites, pop-ups, or DMs
 
 ::: warning
-If someone gets access to your private keys, they can control your funds.  
-If you lose them, you lose access to your wallet — permanently.
+If someone gains access to your private keys, they can take control of your funds.
+If you lose them, and no longer have access to the wallet you used to create your Curvy account or your password, you’ll lose access to your wallet permanently.
 :::
 
 ## No Centralised Recovery, Ever
