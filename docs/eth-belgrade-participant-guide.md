@@ -60,6 +60,8 @@ You have 2 options:
 ## Step 3: Send ETH to ETH Belgrade
 
 1. Tap `Send` in the Curvy Wallet.
+
+![Send1](./public/images/send1.png)
   
 2. In the Recipient field, enter: `ethbelgrade.curvy.name`
 
