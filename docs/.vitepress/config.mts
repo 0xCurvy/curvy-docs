@@ -60,7 +60,15 @@ export default defineConfig({
             {text: 'Research Papers', link: '/research-papers' },
             {text: 'Curvy Protocol Versions', link: '/curvy-protocol-versions' }
             ]
-          }
+          },
+          { text: 'Partnerships', 
+            link: '/',
+            collapsible: true,
+            items: [
+            {text: 'ETH Belgrade: Use Case', link: '/eth-belgrade-use-case' },
+            {text: 'ETH Belgrade: Participant Guide', link: '/' }
+            ]
+          }  
     ],
 
 
