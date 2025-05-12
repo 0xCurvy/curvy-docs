@@ -22,8 +22,7 @@ Curvy enabled private and verifiable RSVP deposits:
 - Each transaction was automatically routed through a unique stealth address, making it private and unlinkable.
 - Participants included a private encrypted message (e.g. their name or ticket ID), visible only to ETH Belgrade organisers in their Curvy Wallet.
 
-### The Benefits
-
+This solution brought several important advantages:
 - Prevents fraudulent claims: no one can fake a deposit by copying someone else’s transaction.
 - Gives organisers full visibility into who deposited funds, without exposing participant data on-chain.
 - Makes it simple and secure to refund participants after the event.
