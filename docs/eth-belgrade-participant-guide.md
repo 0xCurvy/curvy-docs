@@ -35,7 +35,7 @@ Create a strong password to secure access to your wallet on this device. This pr
 
 ## Step 2: Deposit ETH Into Your Curvy Wallet
 
-Tap Receive in the Curvy Wallet.
+Tap `Receive` in the Curvy Wallet.
 
 You have 2 options:
 
