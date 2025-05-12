@@ -15,8 +15,13 @@ The wallet you connect becomes the key to your Curvy account. Combined with the 
 ![Connect Wallet](./public/images/connect_wallet.png)
     
 3. **Sign to Generate Your Keys**
-You'll be asked to sign a message (not a transaction). This action generates the keys needed to manage your Curvy account and stealth addresses, all locally in your browser. 
-Note: Your private keys are never uploaded or shared.
+
+You'll be asked to sign a message (not a transaction). 
+This action generates the keys needed to manage your Curvy account and stealth addresses, all locally in your browser. 
+
+::: info
+Your private keys are never uploaded or shared.
+:::
 
 4. **Create Your Curvy ID**
 Choose your personalised, ENS-compatible username (e.g. `yourname.curvy.name`).
