@@ -4,7 +4,7 @@
 
 1. **Go to the Curvy Web App**
 
-Navigate to [https://app.curvy.box](https://app.curvy.box/). This is where you'll set up your Curvy Wallet and manage your ETH deposit.
+Navigate to [https://app.curvy.box](https://app.curvy.box/). 
 
 2. **Connect Your Wallet**
 
