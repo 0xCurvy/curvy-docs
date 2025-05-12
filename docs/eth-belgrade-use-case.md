@@ -12,7 +12,7 @@ To prevent people from reserving a plane seat and a hackathon spot without actua
 If ETH Belgrade had simply asked participants to send ETH to a public wallet address, it would have created a verification problem.
 Since all Ethereum transactions are publicly visible, a dishonest participant could visit a block explorer, copy someone else’s transaction hash, and falsely claim that they already paid by submitting the link to that transaction.
 
-This would force organisers to manually verify each claim by comparing sender addresses, checking timestamps, and resolving disputes, wasting a lot of their time and introducing unnecessary friction.
+This would force organisers to manually verify claims by comparing sender addresses, checking timestamps, and resolving disputes, wasting a lot of their time and introducing unnecessary friction.
 
 ### The Solutions
 
