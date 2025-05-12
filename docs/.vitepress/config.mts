@@ -64,8 +64,8 @@ export default defineConfig({
           { text: 'Partnerships', 
             collapsible: true,
             items: [
-            {text: 'ETH Belgrade: Use Case', link: '/eth-belgrade-use-case' },
-            {text: 'ETH Belgrade: Participant Guide', link: '/eth-belgrade-participant-guide' }
+            {text: 'ETH Belgrade', link: '/eth-belgrade-use-case' },
+            {text: 'ETH Belgrade - Participant Guide', link: '/eth-belgrade-participant-guide' }
             ]
           }  
     ],
