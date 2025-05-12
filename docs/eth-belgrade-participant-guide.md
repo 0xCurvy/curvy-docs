@@ -61,7 +61,7 @@ You have 2 options:
 
 1. Tap `Send` in the Curvy Wallet.
 
-![Send1](./public/images/send1.png)
+![Send](./public/images/send-eth-belgrade.png)
   
 2. In the Recipient field, enter: `ethbelgrade.curvy.name`
 
