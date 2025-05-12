@@ -60,12 +60,10 @@ You have 2 options:
 ## Step 3: Send ETH to ETH Belgrade
 
 1. Tap `Send` in the Curvy Wallet.
-
-![Send](./public/images/send-eth-belgrade.png)
   
 2. In the Recipient field, enter: `ethbelgrade.curvy.name`
 
-![Send2](./public/images/send2.png)
+![Send](./public/images/send-eth-belgrade.png)
 
 3. Tap `Add a Message` and include: Your name (same as the one used during hackathon registration)
 
