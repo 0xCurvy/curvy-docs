@@ -27,4 +27,4 @@ This solution brought several important advantages:
 - Gives organisers full visibility into who deposited funds, without exposing participant data on-chain.
 - Makes it simple and secure to refund participants after the event.
 
-This is a reusable pattern for event deposits, ticket reservations, DAO bounties, or any flow where privacy, simplicity, and automation matter.
+This is a reusable pattern for event deposits, ticket reservations, DAO bounties, and similar use cases that require private and verifiable RSVP deposits.
