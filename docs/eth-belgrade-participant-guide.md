@@ -83,8 +83,11 @@ You have 2 options:
     
 7. Review all details, then `Confirm` the transaction.
 
-> Your transaction will be sent to a new stealth address generated for ETH Belgrade.
-> The attached message will be **encrypted** and visible **only** to the ETH Belgrade organisers.
+
+::: info
+Your transaction will be sent to a new stealth address generated for ETH Belgrade.
+The attached message will be **encrypted** and visible **only** to the ETH Belgrade organisers.
+:::
 
 ## Step 4: Receive Your Refund (After the Event)
 
