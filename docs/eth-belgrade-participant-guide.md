@@ -9,6 +9,7 @@ Navigate to [https://app.curvy.box](https://app.curvy.box/).
 2. **Connect Your Wallet**
 
 Tap `Connect Wallet`, then choose the wallet you'd like to use (e.g. MetaMask, Argent, Braavos).
+
 The wallet you connect becomes the key to your Curvy account. Combined with the password you’ll set up in the next steps, it gives you the most secure way to access and manage your Curvy wallet.
 
 ![Connect Wallet](./public/images/connect_wallet.png)
