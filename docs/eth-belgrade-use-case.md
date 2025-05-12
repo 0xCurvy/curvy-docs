@@ -3,7 +3,7 @@
 ## Use Case: Private & Trustless RSVP System for Events
 
 ETH Belgrade, one of the leading events in the region, needed a simple and secure way to ensure commitment from participants who registered for their hackathon, including those flying in from ETHGlobal Prague.
-(*Yes, you read that right: they even rented a plane to fly participants from Prague to Belgrade.*)
+(*Yes, you read that right: they even rented a plane to fly participants from Prague to Belgrade*).
 
 To prevent people from reserving a plane seat and a hackathon spot without actually showing up, ETH Belgrade asked each participant to temporarily deposit a small amount of ETH as a commitment guarantee. If a participant showed up, their ETH would be refunded after the event. But if they didn’t attend and failed to cancel before the deadline, their funds would be retained.
 
