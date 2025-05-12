@@ -4,7 +4,7 @@
 
 1. **Go to the Curvy Web App**
 
-Navigate to [https://app.curvy.box](https://app.curvy.box/). 
+Navigate to [app.curvy.box](https://app.curvy.box/). 
 
 2. **Connect Your Wallet**
 
