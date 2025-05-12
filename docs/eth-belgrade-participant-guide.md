@@ -1,4 +1,4 @@
-# ETH Belgrade – Participant Guide
+# ETH Belgrade
 
 ## Step 1: Set Up Your Curvy Wallet
 
