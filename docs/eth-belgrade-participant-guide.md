@@ -22,11 +22,13 @@ This action generates the keys needed to manage your Curvy account and stealth a
 > Note: Your private keys are never uploaded or shared.
 
 4. **Create Your Curvy ID**
+   
 Choose your personalised, ENS-compatible username (e.g. `yourname.curvy.name`).
 
 ![Set Up Your Curvy ID](./public/images/curvy_id.png)
 
-6. **Set a Password**
+5. **Set a Password**
+   
 Create a strong password to secure access to your wallet on this device. This protects your wallet even if someone gains access to your browser.
 
 ![Create a Password](./public/images/create_password.png)
@@ -75,11 +77,11 @@ You have 2 options:
    
 4. Select **Network**: `Ethereum`
    
-7. Choose the **Address**: Pick the address you previously deposited funds to.
+5. Choose the **Address**: Pick the address you previously deposited funds to.
    
-9. Enter **Amount**: `0.05 ETH`
+6. Enter **Amount**: `0.05 ETH`
     
-11. Review all details, then `Confirm` the transaction.
+7. Review all details, then `Confirm` the transaction.
 
 > Your transaction will be sent to a new stealth address generated for ETH Belgrade.
 > The attached message will be **encrypted** and visible **only** to the ETH Belgrade organisers.
