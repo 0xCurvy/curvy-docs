@@ -15,7 +15,7 @@ export default defineConfig({
       `window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag("js", new Date());
-      gtag("config", "G-1M3S5K0GPZ");`
+      gtag("config", "G-8B1Y93VV4T");`
     ], 
     [
       'link',
