@@ -67,7 +67,7 @@ You have 2 options:
 
 ![Send](./public/images/send-eth-belgrade.png)
 
-3. Tap `Add a Message` and include: Your name (same as the one used during hackathon registration) and your Curvy ID where your staked funds will be returned
+3. Tap `Add a Message` and include: Your email (same as the one used during hackathon registration) and your Curvy ID where your staked funds will be returned
 
 ![Add Message](./public/images/add-message.png)
 
