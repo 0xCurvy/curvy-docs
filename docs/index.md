@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Curvy Documentation"
-  tagline: A stealth address protocol enabling private, secure, and compliant on-chain transactions.
+  tagline: Privacy-first protocol for secure, fast and compliant crypto payments.
   actions:
     - theme: brand
       text: Docs 
