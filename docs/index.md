@@ -27,7 +27,7 @@ features:
 
   - title: How Curvy Works
     link: /how-curvy-works
-    details: Learn how Curvy protects your privacy using stealth addresses, view tags, and best practices.
+    details: Learn how Curvy protects your privacy using stealth addresses, view tags, a ZK-powered relayer, and best practices.
     
   - title: Technical Documentation
     link: /technical-documentation.html
