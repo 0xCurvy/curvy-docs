@@ -4,7 +4,7 @@ We are gradually upgrading the Curvy protocol to support more complex, scalable,
 
 ## Curvy v1 – Stealth Transfers (Live)
 
-The current version of Curvy supports one-time stealth address generation, stateless detection using view tags, and private 1:1 transfers across [multiple blockhains](./wallets-and-networks.html#supported-networks). It uses dual key pairs (view and spend) for self-custody and offers optional auditability via view key sharing.
+The current version of Curvy supports one-time stealth address generation, stateless detection using view tags, and private 1:1 transfers across [multiple blockchains](./wallets-and-networks.html#supported-networks). It uses dual key pairs (view and spend) for self-custody and offers optional auditability via view key sharing.
 
 ## Curvy v2 – Relayer & Aggregation (Coming Soon)
 
