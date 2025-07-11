@@ -26,7 +26,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Docs', link: '/get-started-with-curvy' }
+      { text: 'Docs', link: '/get-started-with-curvy' },
+      { text: 'Curvy SDK', link: '/sdk' }
     ],
 
     sidebar: [

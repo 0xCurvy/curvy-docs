@@ -10,6 +10,9 @@ hero:
       text: Docs 
       link: /get-started-with-curvy.html
     - theme: alt
+      text: Curvy SDK
+      link: /sdk/
+    - theme: alt
       text: Website 
       link: https://www.curvy.box
     - theme: alt
@@ -36,8 +39,6 @@ features:
   - title: Research & Protocol Versions
     link: /research-and-protocol-versions 
     details: Explore the academic research behind Curvy and see how the protocol is evolving.
-
-
  
 ---
 
