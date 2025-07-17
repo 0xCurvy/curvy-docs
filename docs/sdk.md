@@ -27,7 +27,7 @@ gives you the complete feature set of the Curvy protocol.
 Curvy SDK can be installed with a Node package manager:
 
 ```
-pnpm install curvy-sdk
+pnpm install @0xcurvy/curvy-sdk
 ```
 
 The easiest way to get started is to run the provided `curvy-os` example app:
