@@ -20,7 +20,7 @@ Curvy SDK is a Typescript SDK that works in both server and browser environments
 gives you the complete feature set of the Curvy protocol.
 
 - [GitHub repository](https://github.com/0xCurvy/curvy-sdk/)
-- [NPM](https://www.npmjs.com/package/curvy-sdk)
+- [NPM](https://www.npmjs.com/package/@0xcurvy/curvy-sdk)
 
 ## Installation {#installation}
 
