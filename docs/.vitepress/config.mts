@@ -26,8 +26,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Docs', link: '/get-started-with-curvy' },
-      { text: 'Curvy SDK', link: '/sdk' }
+      { text: 'Docs', link: '/get-started-with-curvy' }
     ],
 
     sidebar: [
@@ -51,13 +50,23 @@ export default defineConfig({
               {text: 'Wallets & Networks', link: 'wallets-and-networks' },
             ]
           },
-          { text: 'Deep Dive: Technical Documentation', 
-            link: '/technical-documentation',
+          { text: 'Develop with Curvy SDK',
+            link: '/sdk',
+            collapsible: true,
+            items: [
+              {text: 'Getting Started', link: '/sdk#getting-started' },
+              {text: 'Installation', link: '/sdk#installation' },
+              {text: 'Initializing the SDK', link: '/sdk#initializing' },
+              {text: 'Signing into Curvy', link: '/sdk#signing-in' },
+              {text: 'Querying balances', link: '/sdk#querying-balances' },
+              {text: 'Sending funds', link: '/sdk#sending-funds' },
+            ]
           },
-          { text: 'Research & Protocol Versions', 
+          { text: 'Research & Protocol Versions',
             link: '/research-and-protocol-versions',
             collapsible: true,
             items: [
+            {text: 'Deep Dive: Technical Documentation', link: '/technical-documentation' },
             {text: 'Research Papers', link: '/research-papers' },
             {text: 'Curvy Protocol Versions', link: '/curvy-protocol-versions' }
             ]
