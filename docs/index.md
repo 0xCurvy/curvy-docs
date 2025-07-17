@@ -10,6 +10,9 @@ hero:
       text: Docs 
       link: /get-started-with-curvy.html
     - theme: alt
+      text: SDK
+      link: /sdk/
+    - theme: alt
       text: Website 
       link: https://www.curvy.box
     - theme: alt
@@ -29,15 +32,13 @@ features:
     link: /how-curvy-works
     details: Learn how Curvy protects your privacy using stealth addresses, view tags, a ZK-powered relayer, and best practices.
     
-  - title: Technical Documentation
-    link: /technical-documentation.html
-    details: Dive deeper into Curvy’s cryptographic design, wallet architecture, and stealth transaction mechanics.
+  - title: Develop with Curvy SDK
+    link: /sdk-get-started
+    details: Install Curvy SDK, configure your environment and start hacking with the Demo App.
 
   - title: Research & Protocol Versions
     link: /research-and-protocol-versions 
-    details: Explore the academic research behind Curvy and see how the protocol is evolving.
-
-
+    details: Dive deeper and explore the academic research behind Curvy and see how the protocol is evolving.
  
 ---
 
