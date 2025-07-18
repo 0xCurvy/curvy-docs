@@ -33,7 +33,7 @@ features:
     details: Learn how Curvy protects your privacy using stealth addresses, view tags, a ZK-powered relayer, and best practices.
     
   - title: Develop with Curvy SDK
-    link: /sdk-get-started
+    link: /sdk
     details: Install Curvy SDK, configure your environment and start hacking with the Demo App.
 
   - title: Research & Protocol Versions
