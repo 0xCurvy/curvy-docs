@@ -8,7 +8,8 @@ Currently supported wallets include:
 
 - Argent X (browser extension) and Argent Mobile  
 - MetaMask  
-- Braavos  
+- Braavos
+- Rabby Wallet 
 - WalletConnect-compatible wallets (e.g. Rainbow, Trust Wallet, Zerion)
 
 ## **Supported Networks**
@@ -21,5 +22,8 @@ Curvy is currently available on the following networks:
 - Starknet  
   - Mainnet  
   - Sepolia (testnet)
+- Arbitrum
+  - One (mainnet)
+  - Sepolia (tesnet)
 
 More EVM-compatible chains are coming soon.
