@@ -7,7 +7,7 @@
 >
 > To get your own API key for testing, please first submit this [Form](https://form.typeform.com/to/xNPxnHQO)
 >
-> To receive support, reach out via the [Curvy Telegram chat](https://t.me/c/CurvyProtocol/8)
+> To receive support, reach out via the [Curvy Telegram chat](https://t.me/CurvyProtocol/8)
 > or [GitHub Issues](https://github.com/0xCurvy/curvy-sdk/issues/)
 
 > [!NOTE]
