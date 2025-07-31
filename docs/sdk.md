@@ -7,9 +7,8 @@
 >
 > To get your own API key for testing, please first submit this [Form](https://form.typeform.com/to/xNPxnHQO)
 >
-> To receive support, please open a discussion at [Curvy Community Portal](https://community.curvy.box/d/13-sdk-access-instructions)
+> To receive support, reach out via the [Curvy Telegram chat](https://t.me/c/CurvyProtocol/8)
 > or [GitHub Issues](https://github.com/0xCurvy/curvy-sdk/issues/)
->
 
 > [!NOTE]
 > Current limitations of Curvy SDK:
